@@ -1,4 +1,4 @@
-#!/bin/bash
+###!/bin/bash
 > t
 KYCH="/root/.ssh/authorized_keys"
 ADM="inadmn01lvp"
